@@ -13,5 +13,6 @@ View the interactive executive summary:
 - Strategy - https://drive.google.com/file/d/1aD66uzlgxy45NxeS8XarXljHrDCwqjmt/view?usp=drive_link
 
 ### Dataset used and Dashboard Visualisation
+- Merged Dataset (Market 1,2 and 3): https://docs.google.com/spreadsheets/d/1S-t30r7lnDkdH-6KIhc5CETzzGmqcly9aXgkxjgX5Zg/edit?usp=sharing
 - Tableau Dashboard: https://public.tableau.com/app/profile/jo.o.ornelas/viz/GoogleFiberRepeatCallsDashboard_17652315144010/RepeatCallsReport
-- https://docs.google.com/spreadsheets/d/1S-t30r7lnDkdH-6KIhc5CETzzGmqcly9aXgkxjgX5Zg/edit?usp=sharing
+
